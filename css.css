@@ -1,0 +1,38 @@
+hr{
+    border-style:none ;
+    border-top-style: inset;
+    border-color: tomato;
+    border-width: 2px;
+    width: 90%;
+    height:0px;
+}
+h1{
+    font-style: italic;
+    color: crimson;
+    font-size: 100px;
+}
+h3{
+    font-style: italic;
+    color: crimson;
+}
+p{
+    font-style: oblique;
+    color: black;
+}
+body{
+    background-color: rgba(224, 147, 147, 0.31);
+}
+thead{
+    color: crimson;
+    font-style: italic;
+}
+tbody{
+    color: black;
+    font-style: oblique;
+}
+form
+{
+    color: crimson;
+}
+
+
